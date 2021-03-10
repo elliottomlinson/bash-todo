@@ -1,4 +1,4 @@
-![bash-todo](https://user-images.githubusercontent.com/8680290/110532212-8bbc2d00-80ea-11eb-9f06-d8bc414be894.png)
+![bash-todo](https://user-images.githubusercontent.com/8680290/110555305-5de6e080-810a-11eb-8a87-0b61c84c4a77.png)
 
 **view**
 
@@ -14,7 +14,7 @@
 
 **clear**
 
-``todo`` ``done`` ``all``
+``todo`` ``alldone``
 
 **setup**
 
