@@ -6,11 +6,11 @@
 
 **add**
 
-``todo`` *task name*
+``todo`` *task*
 
 **remove**
 
-``todo`` ``done`` *task name*
+``todo`` ``done`` *task*
 
 **clear**
 
