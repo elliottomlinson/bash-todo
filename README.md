@@ -1,23 +1,31 @@
+## bash-todo
+
+> simple terminal to-do list feature
+
+[![size](https://img.shields.io/github/size/elliottomlinson/bash-todo/todo.sh)](https://raw.githubusercontent.com/elliottomlinson/bash-todo/main/todo.sh)
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/8680290/110555305-5de6e080-810a-11eb-8a87-0b61c84c4a77.png" />
+  <img src="https://user-images.githubusercontent.com/8680290/137634728-810f6e15-1994-4a98-859e-1bec956a2248.png" width="60%">
 </p>
+
+## install
+
+add to .bashrc
+
+## usage
 
 **view**
 
-``todo``
+  ``todo``
 
 **add**
 
-``todo`` *task*
+  ``todo`` *item*
 
 **remove**
 
-``todo`` ``done`` *task*
+  ``todo`` ``done`` *items*
 
 **clear**
 
-``todo`` ``alldone``
-
-**setup**
-
-add to .bashrc
+  ``todo`` ``alldone``
