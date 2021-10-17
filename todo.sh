@@ -26,6 +26,6 @@ todo() {
     sed -i "/$phrase/d" $LIST
   fi
 
-  # print list contents or null if empty
-  [[ -s $LIST ]] && cat $LIST || echo "null"
+  # print list contents or blank line if empty
+  [[ -s $LIST ]] && cat $LIST || echo ""
 }
