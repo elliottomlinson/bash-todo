@@ -14,18 +14,18 @@ add to .bashrc
 
 ## usage
 
-**view**
+**view list**
 
   ``todo``
 
-**add**
+**add an item**
 
   ``todo`` *item*
 
-**remove**
+**remove matching item(s)**
 
   ``todo`` ``done`` *items*
 
-**clear**
+**clear list**
 
   ``todo`` ``alldone``
